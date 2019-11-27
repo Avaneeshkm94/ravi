@@ -1,0 +1,6 @@
+name: add Module
+description: Creates a result.
+package: Custom
+
+type: module
+core: 8.x
